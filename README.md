@@ -1,3 +1,11 @@
+# How to run:
+```bash
+yarn install
+yarn dev
+```
+
+# Vite template description:
+
 # ViteRC ❤️‍🔥
 
 A modern minimal Vite 5 + React 18 + TypeScript template with pre-configured ESLint (with Airbnb JS/React rules), Prettier, Vitest and Git hooks with Husky out of the box 📦
